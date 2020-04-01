@@ -1,12 +1,12 @@
 {
-    "name" : "ncjoes/office-converter",
-    "description" : "PHP Wrapper for LibreOffice",
+    "name" : "initio/office-file-converter",
+    "description" : "PHP Wrapper for LibreOffice, forked from ncjoes/office-converted",
     "keywords" : ["Office","Converter"],
     "license" : "MIT",
     "authors" : [
         {
-            "name" : "Chukwuemeka Nwobodo",
-            "email" : "jc.nwobodo@gmail.com"
+            "name" : "Wolfgang Born",
+            "email" : "wolfgang@initio.no"
         }
     ],
     "require" : {
@@ -17,7 +17,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "NcJoes\\OfficeConverter\\" : "src/OfficeConverter"
+            "Initio\\OfficeFileConverter\\" : "src/OfficeConverter"
         }
     },
     "minimum-stability" : "stable"

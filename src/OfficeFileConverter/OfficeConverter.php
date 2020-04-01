@@ -1,11 +1,11 @@
 <?php
 
-namespace NcJoes\OfficeConverter;
+namespace Initio\OfficeConverter;
 
 /**
- * Class OfficeConverter
+ * Class OfficeFileConverter
  *
- * @package NcJoes\OfficeConverter
+ * @package NcJoes\OfficeFileConverter
  */
 class OfficeConverter
 {
@@ -17,7 +17,7 @@ class OfficeConverter
     private $prefixExecWithExportHome;
 
     /**
-     * OfficeConverter constructor.
+     * OfficeFileConverter constructor.
      *
      * @param $filename
      * @param null $tempPath
