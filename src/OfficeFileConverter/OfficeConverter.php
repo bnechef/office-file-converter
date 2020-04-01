@@ -199,7 +199,10 @@ class OfficeConverter
             'Jpg'  => ['pdf'],
             'Jpeg' => ['pdf'],
             'Jfif' => ['pdf'],
-            'rtf'  => ['docx', 'txt']
+            'rtf'  => ['docx', 'txt'],
+            'odp'  => ['pdf'],
+            'ods'  => ['pdf'],
+            'odf'  => ['pdf']
         ];
 
         if ($extension !== null) {
