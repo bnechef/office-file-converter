@@ -17,7 +17,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Initio\\OfficeFileConverter\\" : "src/OfficeConverter"
+            "Initio\\OfficeFileConverter\\" : "src/OfficeFileConverter"
         }
     },
     "minimum-stability" : "stable"
