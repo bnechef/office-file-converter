@@ -1,6 +1,6 @@
 <?php
 
-namespace Initio\OfficeConverter;
+namespace Initio\OfficeFileConverter;
 
 /**
  * Class OfficeFileConverter
