@@ -5,7 +5,7 @@ namespace Initio\OfficeConverter;
 /**
  * Class OfficeFileConverter
  *
- * @package NcJoes\OfficeFileConverter
+ * @package Initio\OfficeFileConverter
  */
 class OfficeConverter
 {
