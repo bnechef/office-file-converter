@@ -3,7 +3,7 @@
 namespace Initio\OfficeFileConverter;
 
 /**
- * Class OfficeFileConverter
+ * Class OfficeConverter
  *
  * @package Initio\OfficeFileConverter
  */
