@@ -202,7 +202,8 @@ class OfficeConverter
             'rtf'  => ['docx', 'txt'],
             'odp'  => ['pdf'],
             'ods'  => ['pdf'],
-            'odf'  => ['pdf']
+            'odf'  => ['pdf'],
+            'odg'  => ['pdf']
         ];
 
         if ($extension !== null) {
